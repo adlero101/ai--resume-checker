@@ -1,1 +1,5 @@
 pyPDF2
+dotenv
+streamlit
+azure-ai-inference
+azure-core
